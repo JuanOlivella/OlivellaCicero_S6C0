@@ -15,6 +15,8 @@ python OlivellaJuan_S6C0plots.py
 
 rm datos.dat
 
+rm a.out
+
 echo 
 
 
